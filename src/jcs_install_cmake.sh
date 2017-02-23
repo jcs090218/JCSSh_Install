@@ -14,16 +14,16 @@
 
 
 # first install the software properties
-sudo apt-get install software-properties-common
+apt-get install software-properties-common
 
 # connect to repository
-sudo add-apt-repository ppa:george-edison55/cmake-3.x
+add-apt-repository ppa:george-edison55/cmake-3.x
 
 # update the system
-sudo apt-get update
+apt-get update
 
 # install cmake
-sudo apt-get install cmake
+apt-get install cmake
 
 # update system.
-sudo apt-get upgrade
+apt-get upgrade

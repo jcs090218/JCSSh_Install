@@ -14,8 +14,8 @@
 # SOURCE(jenchieh): http://unix.stackexchange.com/questions/33617/how-can-i-update-to-a-newer-version-of-git-using-apt-get
 ##
 
-sudo apt-get install python-software-properties software-properties-common
-sudo add-apt-repository ppa:git-core/ppa -y
-sudo apt-get update
-sudo apt-get install git
+apt-get install python-software-properties software-properties-common
+add-apt-repository ppa:git-core/ppa -y
+apt-get update
+apt-get install git
 git --version

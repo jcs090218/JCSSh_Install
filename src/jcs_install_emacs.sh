@@ -31,7 +31,7 @@ make
 sudo make install
 
 while true; do
-    read -p "Do you want to open emacs?" yn
+    read -p "Do you want to open emacs? [Y/n]" yn
 
     case $yn in
 

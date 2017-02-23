@@ -17,7 +17,7 @@
 # ------------------------------------------------
 
 # install the open terminal
-sudo apt-get install nautilus-open-terminal
+apt-get install nautilus-open-terminal
 
 # quit nautilus
 nautilus -q

@@ -21,4 +21,7 @@
 #       libc6-dv
 #       make
 
-sudo apt-get install build-essential
+apt-get install build-essential
+
+# install ncurses header files.
+apt get install libncurses5-dev

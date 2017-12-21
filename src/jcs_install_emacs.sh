@@ -9,8 +9,8 @@
 #  ========================================================================
 
 
-EMACS_VERSION="24"
-EMACS_VERSION_SUB=$EMACS_VERSION".4"
+EMACS_VERSION="25"
+EMACS_VERSION_SUB=$EMACS_VERSION".2"
 
 # This shellscript will install the current newest bochs software.
 sudo apt-get install build-essential
@@ -28,7 +28,7 @@ cd emacs-$EMACS_VERSION_SUB
 # start make
 ./configure
 make
-sudo make install
+make install
 
 while true; do
     read -p "Do you want to open emacs? [Y/n]" yn
@@ -54,4 +54,4 @@ done
 cd ..
 
 # delete the compressed folder.
-sudo rm -r -f emacs-$EMACS_VERSION_SUB
+rm -r -f emacs-$EMACS_VERSION_SUB

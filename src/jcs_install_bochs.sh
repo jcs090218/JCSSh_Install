@@ -15,7 +15,7 @@
 BOCHS_VERSION="2.6.8"
 
 # install bochs, vgbios and bximage.
-apt-get install vgabios bochs bochs-x bximage
+apt-get install vgabios bochs bochs-x bximage bochs-sdl
 
 # decompress the tar file
 tar vxzf bochs-$BOCHS_VERSION.tar.gz

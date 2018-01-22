@@ -13,7 +13,7 @@
 # think that is useful for me.
 
 echo
-echo "-------- Start jcs preferences install  ------------"
+echo "-------- Start jcs preferences installation  ------------"
 echo
 
 
@@ -22,3 +22,11 @@ apt-get install tree
 
 # install figlet
 apt-get install figlet
+
+# install compiz
+sudo apt-get install compizconfig-settings-manager
+
+
+echo
+echo "-------- End jcs preferences installation  ------------"
+echo

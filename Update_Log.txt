@@ -11,6 +11,7 @@ $Notice: See LICENSE.txt for modification and distribution information
 * jcs_install_vlc.sh implemented. (JCSSh_Install)
 * Add compiz to preference install list. (JCSSh_Install)
 * Add depenencies install module. (JCSSh_Install)
+* Add bochs-sdl to install bochs default. (JCSSh_Install)
 
 2017-08-04
 * Update emacs source version to 25.2. (JCSSh_Install)

@@ -7,6 +7,11 @@ $Notice: See LICENSE.txt for modification and distribution information
 ========================================================================
 
 
+2018-01-24
+* Rename jcs_preferences_install.sh to jcs_install_pref.sh for
+ better and consistent naming issue. (JCSSh_Install)
+* Add jcs_install_dev for specific developer usage reason. (JCSSh_Install)
+
 2018-01-22
 * jcs_install_vlc.sh implemented. (JCSSh_Install)
 * Add compiz to preference install list. (JCSSh_Install)

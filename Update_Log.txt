@@ -7,6 +7,9 @@ $Notice: See LICENSE.txt for modification and distribution information
 ========================================================================
 
 
+2018-02-09
+* Add install boost library and fixed command typo. (JCSSh_Install)
+
 2018-01-24
 * Rename jcs_preferences_install.sh to jcs_install_pref.sh for
  better and consistent naming issue. (JCSSh_Install)

@@ -24,4 +24,7 @@
 apt-get install build-essential
 
 # install ncurses header files.
-apt get install libncurses5-dev
+apt-get install libncurses5-dev
+
+# install Boost library.
+apt-get intall libboost-all-dev

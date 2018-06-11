@@ -9,8 +9,8 @@
 #  ========================================================================
 
 
-EMACS_VERSION="25"
-EMACS_VERSION_SUB=$EMACS_VERSION".2"
+EMACS_VERSION="26"
+EMACS_VERSION_SUB=$EMACS_VERSION".1"
 
 # This shellscript will install the current newest bochs software.
 sudo apt-get install build-essential

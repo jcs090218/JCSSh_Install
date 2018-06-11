@@ -7,6 +7,10 @@ $Notice: See LICENSE.txt for modification and distribution information
 ========================================================================
 
 
+2018-06-11
+* Update install Emacs module to the Emacs newest version => 26.1. (JCSSh_Install)
+* Update emacs dep. (JCSSh_Install)
+
 2018-02-09
 * Add install boost library and fixed command typo. (JCSSh_Install)
 

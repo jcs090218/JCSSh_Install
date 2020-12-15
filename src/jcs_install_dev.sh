@@ -9,15 +9,13 @@
 # ========================================================================
 
 #
-# DESCRIPTION(jenchieh): Install for developer use.
+# DESCRIPTION: Install for developer use.
 #
-
 
 echo "Start JayCeS dev installtion.."
 
 # URL(jenchieh): https://github.com/ggreer/the_silver_searcher
 apt-get install silversearcher-ag
-
 
 echo
 echo "Done JayCeS dev installtion.."

@@ -8,8 +8,7 @@
 #                   Copyright © 2018 by Shen, Jen-Chieh $
 # ========================================================================
 
-
-# URL(jenchieh): https://github.com/notepadqq/notepadqq
+# URL: https://github.com/notepadqq/notepadqq
 
 # add ppa repo
 add-apt-repository ppa:notepadqq-team/notepadqq

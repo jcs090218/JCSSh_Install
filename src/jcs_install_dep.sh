@@ -9,10 +9,9 @@
 # ========================================================================
 
 #
-# DESCRIPTION(jenchieh): install this `JCSSh_Install' all possible
-# dependencies.
+# DESCRIPTION: install this `JCSSh_Install' all possible dependencies.
 #
-# URL(jenchieh): https://askubuntu.com/questions/213873/what-library-i-need-to-install-if-i-want-to-compile-emacs
+# URL: https://askubuntu.com/questions/213873/what-library-i-need-to-install-if-i-want-to-compile-emacs
 #
 
 # for gtk3 build replace libgtk2.0-dev with libgtk-3-dev

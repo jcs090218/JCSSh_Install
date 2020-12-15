@@ -8,10 +8,9 @@
 #                    Copyright (c) 2016 by Shen, Jen-Chieh $
 #  ========================================================================
 
-
 ##
 # This shellscript will install the current newest git software.
-# SOURCE(jenchieh): http://unix.stackexchange.com/questions/33617/how-can-i-update-to-a-newer-version-of-git-using-apt-get
+# SOURCE: http://unix.stackexchange.com/questions/33617/how-can-i-update-to-a-newer-version-of-git-using-apt-get
 ##
 
 apt-get install python-software-properties software-properties-common

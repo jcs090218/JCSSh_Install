@@ -8,7 +8,6 @@
 #                    Copyright (c) 2017 by Shen, Jen-Chieh $
 #  ========================================================================
 
-
 # install grub
 apt-get install grub
 

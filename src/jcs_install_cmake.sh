@@ -8,10 +8,8 @@
 #                    Copyright (c) 2016 by Shen, Jen-Chieh $
 #  ========================================================================
 
-
 # This shellscript will install the current newest CMake software.
-# SOURCE(jenchieh): http://askubuntu.com/questions/610291/how-to-install-cmake-3-2-on-ubuntu-14-04
-
+# SOURCE: http://askubuntu.com/questions/610291/how-to-install-cmake-3-2-on-ubuntu-14-04
 
 # first install the software properties
 apt-get install software-properties-common

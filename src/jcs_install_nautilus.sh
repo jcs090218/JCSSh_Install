@@ -8,9 +8,7 @@
 #                    Copyright (c) 2016 by Shen, Jen-Chieh $
 #  ========================================================================
 
-
 # This shellscript will install the Nautilus for convenience use.
-
 
 # ------------------------------------------------
 # Right click open terminal.

@@ -8,9 +8,7 @@
 #                   Copyright © 2018 by Shen, Jen-Chieh $
 # ========================================================================
 
-
-# URL(jenchieh): https://www.videolan.org/vlc/download-ubuntu.html
-
+# URL: https://www.videolan.org/vlc/download-ubuntu.html
 
 # update apt before install `vlc'.
 apt-get update

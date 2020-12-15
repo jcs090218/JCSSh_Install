@@ -8,10 +8,8 @@
 #                    Copyright (c) 2017 by Shen, Jen-Chieh $
 #  ========================================================================
 
-
 # install GNU Gloabl - tagging system.
-# SOURCE(jenchieh): http://blog.csdn.net/vichie2008/article/details/50342393
-
+# SOURCE: http://blog.csdn.net/vichie2008/article/details/50342393
 
 GNU_GLOBAL_PACKAGE_NAME="global-"
 GNU_GLOBAL_VERSION="6.5.6"

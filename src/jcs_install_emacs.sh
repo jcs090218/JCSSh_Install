@@ -8,15 +8,13 @@
 #                    Copyright (c) 2016 by Shen, Jen-Chieh $
 #  ========================================================================
 
-
 EMACS_VERSION="26"
 EMACS_VERSION_SUB=$EMACS_VERSION".1"
 
 # This shellscript will install the current newest bochs software.
 sudo apt-get install build-essential
 
-# TODO(jenchieh): add version input?
-# build the dep
+# TODO: add version input? build the dep.
 sudo apt-get build-dep emacs$EMACS_VERSION
 
 # decompress the deb

@@ -8,7 +8,6 @@
 #                    Copyright (c) 2016 by Shen, Jen-Chieh $
 #  ========================================================================
 
-
 # This shellscript will install the current newest bochs software.
 
 # setup the variables/settings.

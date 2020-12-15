@@ -8,12 +8,10 @@
 #                    Copyright (c) 2016 by Shen, Jen-Chieh $
 #  ========================================================================
 
-
 # This shellscript will help install all the environment setting
 # to program C/C++. gcc, g++, make, etc.
 
-
-# SOURCE(jenchieh): http://packages.ubuntu.com/zh-tw/precise/build-essential
+# SOURCE: http://packages.ubuntu.com/zh-tw/precise/build-essential
 # Build Essential includes
 #       dpkg-dev
 #       g++

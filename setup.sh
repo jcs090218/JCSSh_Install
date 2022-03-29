@@ -28,12 +28,12 @@ find $DIRNAME -name "*.sh" -exec chmod +x {} \;
 echo "adding path to .bashrc file..."
 cat <<EOF >> $BASHRC_FILE
 # jcssh install package
-JCSSH_INSTALL_SRC='/home/jayces/jcs_environment_variables/PATH/JCSSh_Install/src'
+JCSSH_INSTALL_SRC='/home/jayces/jcs_env_var/PATH/JCSSh_Install/src'
 export JCSSH_INSTALL_SRC
 export PATH=$PATH:$JCSSH_INSTALL_SRC
 EOF
 
-echo "JCSSH_INSTALL_SRC='/home/jayces/jcs_environment_variables/PATH/JCSSh_Install/src'"
+echo "JCSSH_INSTALL_SRC='/home/jayces/jcs_env_var/PATH/JCSSh_Install/src'"
 echo "export JCSSH_INSTALL_SRC"
 echo "export PATH=$PATH:$JCSSH_INSTALL_SRC"
 
